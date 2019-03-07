@@ -1,4 +1,4 @@
-FBICastBuddy# FBICastBuddy
+# FBICastBuddy
 Dependencies:
 ```
 virtualenv -p /usr/bin/python3 ~/virtualenv/pychromecast
