@@ -6,4 +6,4 @@ source ~/virtualenv/pychromecast/bin/activate
 pip3 install pychromecast
 ```
 Then:
-`python3 FBICastBuddy.py
+`python3 FBICastBuddy.py`
